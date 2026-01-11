@@ -65,9 +65,8 @@ Git · GitHub · Docker · VS Code
 ---
 
 ## Professional Links
-📧 Email: *Add your email*  
-🔗 LinkedIn: *Add your LinkedIn profile*  
-🌐 Portfolio: *Optional*
+📧 Email: *rlakshu7@gmail.com*  
+
 
 ---
 
